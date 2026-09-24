@@ -1,7 +1,7 @@
 # Radioteleskop DIY 
 # Authors 
 - Franciszek Solski 
-- 
+  
 # Project objective
   The aim of the project was to construct a simple radio telescope capable of detecting radio emission
 from the Sun. The instrument was assembled from components used in satellite television systems
