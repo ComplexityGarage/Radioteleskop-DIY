@@ -48,8 +48,8 @@ After start-up, correct reception was verified using GQRX. The actual power meas
 were made with rtl_power. A constant receiver gain was used for all recordings because
 automatic gain control could compensate for the increase in signal caused by pointing the
 antenna towards the Sun. 
-# Directional test<img width="994" height="496" alt="pomiar" src="https://github.com/user-attachments/assets/34e58f7b-0118-43bd-a9de-392e51b73dc3" />
- 
+# Directional test
+
 Figure 1 shows the result of the test in which the antenna was moved manually. The sequence
 of pointings was: sky region, Sun, sky region, and Sun again. In both intervals, 
 an increase of approximately 0.2–0.25 dB was recorded relative to the nearby sky. The
