@@ -71,7 +71,8 @@ the surroundings. Cloud cover also  affected the measurement.
 <img width="994" height="496" alt="pomiar" src="https://github.com/user-attachments/assets/a7a210cd-e19f-478f-acc5-3ff97f034c05" />
 
 
-# The constructed system made it possible to detect a directional change in the received radio power.
+# Summary
+The constructed system made it possible to detect a directional change in the received radio power.
 In the control test, pointing the antenna at the Sun twice produced a repeatable increase in signal,
 whereas pointing it at a nearby region of the sky caused the signal to return to a lower level. During
 the measurement with the antenna stationary, a several-minute maximum consistent with the Sun
